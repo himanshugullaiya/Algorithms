@@ -1,8 +1,8 @@
 # Sorting Algorithms
 
 Here are some of the most Popular Sorting Algorithms in  C++ and Python:
-Merge Sort
-Quick Sort
+1) Merge Sort
+2) Quick Sort
 
 
 
