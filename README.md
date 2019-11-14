@@ -12,6 +12,8 @@ Here are some of the most Popular Algorithms in  C++ and Python:
     -> Length of LCS (Recursion)
     
     -> Print LCS (tabulation Method)
+    
+    -> Pattern Matching: KMP
 
 
 
