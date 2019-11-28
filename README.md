@@ -14,6 +14,20 @@ Here are some of the most Popular Algorithms in  C++ and Python:
     -> Print LCS (tabulation Method)
     
     -> Pattern Matching: KMP
+ 
+3) Graphs
+    -> BFS , DFS
+    
+    -> Minimum Spanning Tree
+        
+        * PRIMS, KRUSKALS *
+    
+    -> Single Source Shortest Path
+        
+        * DIJKSTRA, BELLMAN - FORD *
+     
+    -> Floyd - Warshall Algorithm
+        
 
 
 
